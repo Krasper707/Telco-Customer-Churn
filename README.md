@@ -86,7 +86,9 @@ Customer churn is a significant challenge for telecom companies, leading to reve
 4)Pricing and Billing Adjustments: Reduce unexpected charges and provide cost transparency to improve customer satisfaction.
 
 5)Enhanced Customer Support & Proactive Outreach: Address customer concerns proactively to improve service experience.
+<hr>
 
+View the Python Notebook- [Notebook](https://nbviewer.org/github/Krasper707/Telco-Customer-Churn/blob/main/Telco_Customer_Churn.ipynb)
 
 
 
