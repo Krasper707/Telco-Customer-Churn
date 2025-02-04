@@ -1,0 +1,43 @@
+Key Insights & Actions
+1. High Churn Rate (1/4 Customers Lost)
+Action: Implement targeted retention programs for at-risk customers.
+
+2. Month-to-Month Contracts = High Churn
+Action: Offer discounts for annual plans or bundle deals to encourage long-term contracts.
+
+3. TotalCharges is mostly in the Not-Churned Group
+Interpretation: Customers who stay longer tend to accumulate more TotalCharges.
+Action: Provide loyalty rewards for customers who stay beyond 12 months.
+
+4. ₹28 Lakh Revenue Lost Due to Churn
+Action: Prioritize retaining high-revenue customers (check tenure & contract type).
+
+5. Medium Churn Risk (12-48 months) is Crucial
+Action: Focus on engagement strategies like:
+Special discounts after 12 months of service
+Personalized offers for 24+ month customers
+
+6. ₹5 Lakh Revenue at High Churn Risk
+Action:
+Identify top 10% of high-paying, high-churn risk customers and give personalized retention offers.
+
+7. Electronic Check Users Have the Highest Churn
+Action:
+Encourage AutoPay or Credit Card Payments by offering small discounts or cashback.
+
+8. High Churn due to High TotalCharges
+Action:
+Introduce customizable lower-cost plans.
+Offer spending-based discounts (e.g., 5% off after ₹5,000 spent).
+
+
+For High-Risk Customers:
+Prioritize customers identified by the churn model and reach out with custom retention offers (discounts, better plans, loyalty rewards).
+Offer contract renewals to high-risk customers before they churn
+
+For Low-Risk Customers:
+Reward long-term loyalty with special benefits (upgrade opportunities, personalized deals).
+
+For Electronic Check Users:
+Transition them to other payment methods like AutoPay to reduce churn and improve revenue stability.
+
