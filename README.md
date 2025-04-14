@@ -87,7 +87,6 @@ By leveraging SQL-based data exploration and machine learning techniques, this p
 
 ---
 ## Acknowledgments
-- Dataset Source: [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets)
 - Open-source libraries and frameworks used in the project.
 
 ---
